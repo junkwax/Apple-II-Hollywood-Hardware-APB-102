@@ -35,7 +35,17 @@ This hardware allowed up to 32K of ROM space to be mapped into the Apple II with
 > 
 > *Hollywood Hardware, Van Nuys, CA (1983-1984)*
 
-## 4. Hardware Reference Photos
+## 4. Documentation & Manuals
+A massive thank you to the archives at [Apple2Online](https://apple2online.com) for preserving the original documentation for this hardware. If you are configuring this board or using the APU extensions, you can find the complete manuals below:
+
+* [Hollywood Hardware Ultra ROM Board APB-102 Owner's Manual](https://apple2online.com)
+* [Hollywood Hardware APB-102 Quick Reference Guide](https://apple2online.com)
+* [Two-page Data Sheet](https://apple2online.com)
+* [Warranty Card](https://apple2online.com)
+
+*(Note: Ensure you update the links above with the exact target URLs from Apple2Online once your repository is live!)*
+
+## 5. Hardware Reference Photos
 
 **Component Side (Front)**
 ![Front of APB-102](APB102-Front.jpg)
