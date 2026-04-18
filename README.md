@@ -35,5 +35,16 @@ This hardware allowed up to 32K of ROM space to be mapped into the Apple II with
 > 
 > *Hollywood Hardware, Van Nuys, CA (1983-1984)*
 
+## 4. Hardware Reference Photos
+
+**Component Side (Front)**
+![Front of APB-102](APB102-Front.jpg)
+
+**Wiring Side (Back)**
+![Back of APB-102](APB102-Back.jpg)
+
+**Fully Populated Setup**
+![Populated APB-102](APB102-Populated.jpg)
+
 ---
 *Preserved for the retrocomputing community.*
