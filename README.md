@@ -46,13 +46,11 @@ A massive thank you to the archives at [Apple2Online](https://apple2online.com) 
 ## 5. Hardware Reference Photos
 
 **Component Side (Front)**
-![Front of APB-102](APB102-Front.jpg)
+![Populated APB-102](APB102-Populated.jpg)
 
 **Wiring Side (Back)**
 ![Back of APB-102](APB102-Back.jpg)
 
-**Fully Populated Setup**
-![Populated APB-102](APB102-Populated.jpg)
 
 ---
-*Preserved for the retrocomputing community.*
+*Preserved for the Apple ][ retrocomputing community.*
