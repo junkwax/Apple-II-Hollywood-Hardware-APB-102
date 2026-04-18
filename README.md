@@ -12,7 +12,7 @@ This hardware allowed up to 32K of ROM space to be mapped into the Apple II with
 * **High-resolution photos** of the APB-102 PCB (component side and wiring side) showing the 7400-series logic gate layout used for bank switching.
 
 ## 2. Hardware & Reverse-Engineering Notes
-*(Notes provided by @munsie who dumped the ROMs):*
+*(Notes provided by [@munsie](https://github.com/munsie) who dumped the ROMs):*
 
 > "The first 256 bytes of ROM 0 is mapped into the `$Cx00` - `$CxFF` area for the card (replace X with the slot number). When a ROM is selected, it shows up in the `$C800` - `$CFFE` area (`$CFFF` turns off access to the ROM, as is standard for most Apple II cards).
 > 
